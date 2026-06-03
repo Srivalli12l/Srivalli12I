@@ -1,231 +1,261 @@
+<!-- ████████████████████████████████████████████████████████████
+     SRIVALLI L — GITHUB PROFILE README
+     Dark Terminal × AI-Dev Aesthetic
+     ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srivalli%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Turning%20Ideas%20into%20Intelligent%20Products&descAlignY=62&descSize=16" />
+<!-- DARK TERMINAL HERO BANNER -->
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ░██████╗██████╗ ██╗██╗   ██╗ █████╗ ██╗     ██╗     ██╗          ║
+║   ██╔════╝██╔══██╗██║██║   ██║██╔══██╗██║     ██║     ██║          ║
+║   ╚█████╗ ██████╔╝██║██║   ██║███████║██║     ██║     ██║          ║
+║    ╚═══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██║██║     ██║     ██║          ║
+║   ██████╔╝██║  ██║██║ ╚████╔╝ ██║  ██║███████╗███████╗██║          ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝          ║
+║                                                                      ║
+║             [ FULL-STACK ENGINEER  ×  AI BUILDER ]                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Srivalli+%F0%9F%91%8B;Full-Stack+%26+AI+Developer;React+%7C+Next.js+%7C+FastAPI+Enthusiast;Building+Smart%2C+Scalable+Web+Apps;Open+to+Full-Time+SWE+Roles+%F0%9F%9A%80" />
-
-<!-- VIEW COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Srivalli12l&label=Profile+Views&color=70a5fd&style=flat-square" />
+<!-- TYPING SVG — demolab only, green terminal cursor aesthetic -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=_%20Building+AI-powered+web+products+%F0%9F%A4%96;_%20React+%7C+Next.js+%7C+FastAPI+%7C+TypeScript;_%20Turning+screenshots+into+production+code;_%20Finalist+%40+TNWISE+%26+Thiran+Hackathons+%F0%9F%9A%80;_%20Open+to+full-time+SWE+roles" />
 
 </div>
 
 ---
 
-<!-- CODE BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknsiidu/abhisheknsiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknsiidu/abhisheknsiidu/master/code.gif"/>
 
-```java
-public class Srivalli {
+## `$ whoami`
 
-    String name        = "Srivalli L";
-    String location    = "Tamil Nadu, India";
-    String degree      = "B.Sc. Computer Science (2023–2026)";
-    String college     = "Sri GVG Visalakshi College for Women";
-    String email       = "srivalli052005@gmail.com";
-    String github      = "github.com/Srivalli12l";
-    String linkedin    = "linkedin.com/in/srivalli-l-9a52a6288";
-    String portfolio   = "portfolio-api-server-mu.vercel.app";
+```typescript
+const srivalli = {
+  name        : "Srivalli L",
+  location    : "Tamil Nadu, India 🇮🇳",
+  degree      : "B.Sc. CS @ Sri GVG Visalakshi College",
+  cgpa        : "8.5 / 10  (till Sem 5)",
+  email       : "srivalli052005@gmail.com",
+  github      : "github.com/Srivalli12l",
+  linkedin    : "linkedin.com/in/srivalli-l-9a52a6288",
+  portfolio   : "portfolio-api-server-mu.vercel.app",
 
-    String[] stack     = {"React", "Next.js", "FastAPI", "TypeScript"};
-    String[] learning  = {"System Design", "DSA Advanced", "DevOps"};
+  currentStack: ["React", "Next.js", "FastAPI", "TypeScript", "Supabase"],
+  aiToolbelt  : ["Gemini API", "Groq AI", "OpenCV", "Pillow"],
+  superpower  : "Shipping AI-integrated products end-to-end",
 
-    String funFact     = "I build AI tools that make developers' lives easier!";
-    String motto       = "Ship fast. Iterate faster. Impact always.";
-
-    public static void main(String[] args) {
-        System.out.println("Let's build something amazing together 🚀");
-    }
-}
+  learning    : ["System Design", "Docker", "LLM RAG Pipelines"],
+  funFact     : "I built a tool that converts UI screenshots → real code 🤯",
+  motto       : "Ship fast. Iterate faster. Impact always.",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls ./tech-stack`
 
 <div align="center">
 
-<!-- Languages -->
-**Languages**
+**◈ Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=F29111)
 
-<!-- Frontend -->
-**Frontend**
+**◈ Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-<!-- Backend & Databases -->
-**Backend & Databases**
+**◈ Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-<!-- Cloud & DevOps -->
-**Cloud & DevOps**
+**◈ AI & ML**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=4285F4)
+![Groq AI](https://img.shields.io/badge/Groq_AI-0d1117?style=flat-square&logo=lightning&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Pillow](https://img.shields.io/badge/Pillow-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 
-<!-- AI/ML Tools -->
-**AI & ML Tools**
+**◈ Cloud & DevOps**
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-306998?style=flat-square&logo=python&logoColor=white)
-
-<!-- Tools -->
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ cat ./projects.json`
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srivalli12l&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivalli12l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Srivalli12l&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivalli12l&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srivalli12l&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 Neural Arc Global Private Limited — Industrial Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Tamil Nadu, India</b></summary>
 <br/>
 
-> `Industrial Training` `Software Development` `Real-World Projects`
+<details open>
+<summary><b>🤖 UI-CodeGen — AI-Powered UI-to-Code Generator</b> &nbsp;<code>Dec 2025 – Mar 2026</code></summary>
+<br/>
 
-- Completed an industrial internship gaining hands-on exposure to real-world software development workflows and engineering practices.
-- Worked with professional development teams, learning industry-standard tools, version control practices, and deployment pipelines.
-- Applied academic knowledge to practical scenarios, strengthening understanding of full-stack development and agile methodologies.
-- Received certification validating professional-grade training and contribution to live project environments.
+> **Stack:** `React.js` `FastAPI (Python)` `MongoDB` `Firebase` `Tailwind CSS` `OpenCV` `Pillow` `Gemini AI` `Vercel` `Render`
+
+```
+PROBLEM  →  Developers waste hours translating UI designs into code manually.
+SOLUTION →  Upload a screenshot. Get production-ready frontend code. Instantly.
+```
+
+- ⚡ Engineered an AI pipeline converting UI screenshots → clean frontend code using **OpenCV + Pillow** for image analysis and **Gemini AI** for generation
+- 🔄 Real-time code editing + live preview in one unified interface — full iterative feedback loop
+- 🔐 Secure backend via **FastAPI + MongoDB + Firebase Auth** on Vercel + Render, with zero-downtime CI/CD
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/Srivalli12l)
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🤖 **[UI-CodeGen](https://github.com/Srivalli12l)** — AI-Powered UI-to-Code Generator | React · FastAPI · MongoDB · Firebase · Tailwind · Vercel | Converts UI screenshots → production-ready frontend code using OpenCV + Gemini AI; CI/CD with zero-downtime deployment |
-| 📊 **[Evalyze](https://github.com/Srivalli12l)** — Placement Readiness Assessment System | Next.js · TypeScript · Supabase · Groq AI · Vercel | Automates placement prep with resume analysis, tech assessments & personality eval; real-time admin + student dashboards |
-| 🧠 **[HireSense](https://github.com/Srivalli12l)** — AI Resume Screening & Skill Matching | Next.js · React · Tailwind · Supabase · Gemini API | Cuts manual screening time with ATS scoring + AI ranking; intelligent skill-gap analysis for end-to-end hiring workflows |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🥇 | **Proficiency for Academic Excellence** | Academic Years 2024 & 2025 |
-| ⭐ | **Best Performance Award** | Academic Years 2024–2025 & 2025–2026 |
-| 🎤 | **First Prize — Presentation Competition** | Fanticuz Intra-College Event, 1st, 2nd & 3rd Year (2023–2026) |
-| 🔥 | **Finalist — TNWISE 2025** | Tamil Nadu State-Level Hackathon @ Kumaraguru College of Technology |
-| 🚀 | **Selected for Round 2 — Thiran 2025** | National-Level Hackathon @ Sri Eshwar College of Engineering |
-| 📜 | **Web Development (HTML) — IBM** | Certified by IBM |
-| 📜 | **J2EE Comprehensive Training — Infosys** | Certified by Infosys |
-
-</div>
-
----
-
-## 🎓 Education & Currently Learning
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.Sc. Computer Science | Sri GVG Visalakshi College for Women | 2023 – 2026 | 8.5 CGPA (till 5th Sem) |
-| HSC (Class XII) | J.S.R Higher Secondary School | 2022 – 2023 | 88.17% |
-
-</div>
-
+<details open>
+<summary><b>📊 Evalyze — Placement Readiness Assessment System</b> &nbsp;<code>Jul – Nov 2025</code></summary>
 <br/>
 
+> **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Groq AI` `Vercel`
+
 ```
-Currently Learning:
-  System Design    → Distributed Systems, Scalability Patterns
-  DSA              → Advanced Graph Algorithms, Dynamic Programming
-  DevOps           → Docker, CI/CD Pipelines, GitHub Actions
-  Cloud            → AWS Fundamentals, Serverless Architecture
-  AI/ML            → LLM Integration, Prompt Engineering, RAG Systems
+PROBLEM  →  Students lack a unified way to gauge campus placement readiness.
+SOLUTION →  One dashboard: resume analysis + assessments + personality eval + AI feedback.
 ```
+
+- 🎯 End-to-end placement prep platform combining resume analysis, tech assessments, and personality evaluations
+- 🤖 **Groq AI** delivers personalized resume feedback and skill-gap reports before placements
+- 🏛️ Role-based admin + student modules via **Supabase** — real-time analytics + progress tracking
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/Srivalli12l)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🧠 HireSense — AI Resume Screening & Skill Matching Platform</b> &nbsp;<code>Mar 2025 – Apr 2026</code></summary>
+<br/>
+
+> **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Gemini API`
+
+```
+PROBLEM  →  Recruiters spend hours manually screening resumes for every opening.
+SOLUTION →  AI ranks candidates by ATS score + skill match. Shortlist in seconds.
+```
+
+- 📋 Recruitment automation that eliminates manual screening using **ATS scoring + Gemini AI-powered ranking**
+- 🔍 Intelligent parsing engine extracts skills, experience, and fit scores for data-driven shortlisting
+- 📊 Responsive recruiter dashboard: skill gap analysis, candidate recommendations, integrated auth
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/Srivalli12l)
+
+</details>
+
+---
+
+## `$ cat ./achievements.log`
+
+```
+[2025] ✦  FINALIST    →  TNWISE 2025 — Tamil Nadu State-Level Hackathon
+                         @ Kumaraguru College of Technology
+
+[2025] ✦  ROUND 2     →  Thiran National-Level Hackathon 2025
+                         @ Sri Eshwar College of Engineering
+
+[2025] ★  AWARD       →  Best Performance Award — AY 2024–2025
+[2026] ★  AWARD       →  Best Performance Award — AY 2025–2026
+
+[2024] ★  AWARD       →  Proficiency for Academic Excellence — AY 2024
+[2025] ★  AWARD       →  Proficiency for Academic Excellence — AY 2025
+
+[2023-26] 🥇 PRIZE    →  First Prize — Presentation Competition, Fanticuz
+                         Intra-College Event (1st, 2nd & 3rd Year)
+```
+
+---
+
+## `$ cat ./certificates.txt`
+
+```
+◉  Web Development using HTML          →  IBM
+◉  J2EE Comprehensive Training         →  Infosys
+◉  Industrial Internship Training      →  Neural Arc Global Pvt. Ltd.
+```
+
+---
+
+## `$ cat ./education.md`
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+|:---------|:--------------|:-------:|:--------:|
+| B.Sc. Computer Science | Sri GVG Visalakshi College for Women | 2023 – 2026 | **8.5 CGPA** (till Sem 5) |
+| HSC (Class XII) | J.S.R Higher Secondary School | 2022 – 2023 | **88.17%** |
+
+</div>
+
+---
+
+## `$ tail -f ./currently-learning.log`
+
+```python
+learning_roadmap = {
+    "System Design"  : ["Distributed Systems", "Scalability", "Load Balancing"],
+    "DevOps"         : ["Docker", "GitHub Actions", "CI/CD Pipelines"],
+    "AI / ML"        : ["RAG Systems", "LLM Fine-tuning", "Prompt Engineering"],
+    "Cloud"          : ["AWS Fundamentals", "Serverless Architecture"],
+    "DSA"            : ["Advanced Graphs", "Dynamic Programming"],
+}
+
+print("Still loading... the best version of me is under active development 🚧")
+```
+
+---
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-srivalli052005%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:srivalli052005@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivalli--l-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/srivalli-l-9a52a6288)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0d1117?style=flat-square&logo=vercel&logoColor=00FF88)](https://portfolio-api-server-mu.vercel.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Srivalli12l-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Srivalli12l)
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ *"Ship fast. Iterate faster. Impact always."* ✨
+```
+╔════════════════════════════════════════════════════════════════╗
+║  "The best code is the one that ships, scales, and matters."  ║
+║                                              — Srivalli L      ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-📧 [srivalli052005@gmail.com](mailto:srivalli052005@gmail.com) &nbsp;|&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/srivalli-l-9a52a6288) &nbsp;|&nbsp;
-🌐 [Portfolio](https://portfolio-api-server-mu.vercel.app/) &nbsp;|&nbsp;
-🐙 [GitHub](https://github.com/Srivalli12l)
+![Profile Views](https://komarev.com/ghpvc/?username=Srivalli12l&label=profile+views&color=00ff88&style=flat-square)
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
