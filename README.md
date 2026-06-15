@@ -22,17 +22,17 @@
 
 <!-- TYPING ANIMATION + PROFILE VIEWS -->
 <div align="center">
-<br/>
+<!-- <br/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=%E2%96%B6+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+TypeScript;%E2%96%B6+Building+AI-integrated+full-stack+products;%E2%96%B6+Turning+UI+screenshots+into+code+with+Gemini+AI;%E2%96%B6+Open+to+SDE+%26+AI+Engineer+roles+%E2%80%94+2026)](https://readme-typing-svg.demolab.com)
 
-<br/>
+<!-- <br/> -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Srivalli12l&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Srivalli12l)
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -41,20 +41,20 @@
 <!-- GITHUB STATS — side by side, above the fold                   -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Srivalli12l&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00cc66&text_color=ffffff&ring_color=00ff88&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SYSTEM+METRICS"/>&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivalli12l&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&langs_count=8&border_radius=8&custom_title=LANGUAGE+MATRIX"/>
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Srivalli12l&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00cc66&text_color=ffffff&ring_color=00ff88&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SYSTEM+METRICS"/>&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivalli12l&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&langs_count=8&border_radius=8&custom_title=LANGUAGE+MATRIX"/> -->
 
-</div>
+<!-- </div> -->
 
 <!-- <div align="center">
 <img width="96%" src="https://streak-stats.demolab.com?user=Srivalli12l&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00cc66&currStreakLabel=00FF88&sideLabels=00cc66&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=000000&border_radius=8"/>
 </div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/> -->
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!-- ABOUT ME  — terminal left · cute dev GIF right                 -->
@@ -177,7 +177,7 @@
 <!-- CONTRIBUTION SNAKE — compact width, no heading bloat          -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<!-- <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 <picture>
@@ -187,7 +187,7 @@
 </picture>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
