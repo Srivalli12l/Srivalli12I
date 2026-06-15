@@ -25,15 +25,9 @@
 <!-- <br/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=%E2%96%B6+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+TypeScript;%E2%96%B6+Building+AI-integrated+full-stack+products;%E2%96%B6+Turning+UI+screenshots+into+code+with+Gemini+AI;%E2%96%B6+Open+to+SDE+%26+AI+Engineer+roles+%E2%80%94+2026)](https://readme-typing-svg.demolab.com)
-
 <!-- <br/> -->
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Srivalli12l&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Srivalli12l)
-
 </div>
-
 <!-- <br/> -->
-
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
