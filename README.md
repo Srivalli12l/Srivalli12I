@@ -14,7 +14,7 @@
 <div align="center">
 
 <!--  Main rect banner — white name, green subtitle pill, mesh bg  -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:020f07,65:021a0c,100:000000&height=175&section=header&text=SRIVALLI%20L&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder%20of%20Intelligent%20Systems&descSize=14&descAlignY=64&descColor=00FF88&stroke=00FF88&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:020f07,65:021a0c,100:000000&height=175&section=header&text=SRIVALLI%20L&fontSize=64&fontColor=w&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder%20of%20Intelligent%20Systems&descSize=14&descAlignY=64&descColor=00FF88&stroke=00FF88&strokeWidth=0" width="100%"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 <div align="center">
 <!-- <br/> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=%E2%96%B6+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+TypeScript;%E2%96%B6+Building+AI-integrated+full-stack+products;%E2%96%B6+Turning+UI+screenshots+into+code+with+Gemini+AI;%E2%96%B6+Open+to+SDE+%26+AI+Engineer+roles+%E2%80%94+2026)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=900&color=center=true&vCenter=true&width=700&lines=%E2%96%B6+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+TypeScript;%E2%96%B6+Building+AI-integrated+full-stack+products;%E2%96%B6+Turning+UI+screenshots+into+code+with+Gemini+AI;%E2%96%B6+Open+to+SDE+%26+AI+Engineer+roles+%E2%80%94+2026)](https://readme-typing-svg.demolab.com)
 <!-- <br/> -->
 </div>
 <!-- <br/> -->
@@ -253,13 +253,13 @@ AI recruitment platform with ATS scoring, intelligent skill extraction, fit-scor
 <br/>
 
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/> -->
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!-- ACHIEVEMENTS                                                   -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
-<h2 align="center">🏅 ACHIEVEMENTS & RECOGNITION</h2>
+<!-- <h2 align="center">🏅 ACHIEVEMENTS & RECOGNITION</h2>
 
 <div align="center">
 
@@ -273,7 +273,7 @@ AI recruitment platform with ATS scoring, intelligent skill extraction, fit-scor
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ■■■■■■■■■■■■■■■■  NEON DIVIDER  ■■■■■■■■■■■■■■■■ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
